@@ -1,0 +1,62 @@
+{
+	"region_id": "213",
+	"region": "Москва",
+	"models": {
+		"7752791": {
+			"id": 7752791,
+			"total": 5,
+			"offers": [{
+				"name": "Все Просто",
+				"clickUrl": "http://socialmart.ru/offerlink/mpWYEE3JZaQ8_XLFY_l60hkTeI5SoDTFfa_40xdLRGKCOBuqOlc2qLyJj?region=213",
+				"price": "4000",
+				"currency": "RUR",
+				"currName": "руб.",
+				"shopRating": 3,
+				"precRating": 60,
+				"shopGradeTotal": "71 отзыв",
+				"delivery": "350 руб."
+			}, {
+				"name": "Xcom-Shop",
+				"clickUrl": "http://socialmart.ru/offerlink/mpWYEE3JZaQ8_XLFY_l60hkTeI5SoDTFfa_lVG9QLQH5wjXv9ME1ssHuj?region=213",
+				"price": "4790",
+				"currency": "RUR",
+				"currName": "руб.",
+				"shopRating": 5,
+				"precRating": 100,
+				"shopGradeTotal": "3939 отзывов",
+				"delivery": "390 руб."
+			}, {
+				"name": "sot-magazin.ru",
+				"clickUrl": "http://socialmart.ru/offerlink/mpWYEE3JZaQ8_XLFY_l60hkTeI5SoDTFfa_5qla-K5UM0eADW06FsbhmD?region=213",
+				"price": "4350",
+				"currency": "RUR",
+				"currName": "руб.",
+				"shopRating": 3,
+				"precRating": 60,
+				"shopGradeTotal": "12 отзывов",
+				"delivery": "350 руб."
+			}, {
+				"name": "ТЕХНОМАРКЕТ",
+				"clickUrl": "http://socialmart.ru/offerlink/mpWYEE3JZaQ8_XLFY_l60hkTeI5SoDTFfa_My3l7RYPhFslwqjrfCIYUj?region=213",
+				"price": "4190",
+				"currency": "RUR",
+				"currName": "руб.",
+				"shopRating": 3,
+				"precRating": 60,
+				"shopGradeTotal": "8 отзывов",
+				"delivery": "350 руб."
+			}, {
+				"name": "Media Markt",
+				"clickUrl": "http://socialmart.ru/offerlink/mpWYEE3JZaQ8_XLFY_l60hkTeI5SoDTFfa_QRyACOuh4A9oOGTbUYfG6t?region=213",
+				"price": "4477",
+				"currency": "RUR",
+				"currName": "руб.",
+				"shopRating": 3,
+				"precRating": 60,
+				"shopGradeTotal": "1278 отзывов",
+				"delivery": "399 руб."
+			}]
+		}
+	},
+	"staticBuyButton": 1
+}
