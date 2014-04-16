@@ -1,5 +1,5 @@
 .images-white-sprite, .smw .smw__logo, .smw .smw__prices__buy:before, .smw .smw__impression__list__item__tu:before, .smw .smw__impression__list__item__td:before, .smw .smw__impression__list__item__comments:before, .smw .smw__impression__list__item__has, .smw .smw__impression__list__item__like, .smw .where-to-buy input[type=submit], .smw .smw__impression__list__item__rate:before {
-    background:url('../../images/images-white-s85e9ee53ca.png') no-repeat
+    background:url('../images/images-white-s85e9ee53ca.png') no-repeat
 }
 .smw {
     -webkit-border-radius:10px;
@@ -128,7 +128,7 @@
     width:17px
 }
 .smw .rate-white-sprite, .smw .smw__rate, .smw .smw__rate span {
-    background:url('../../images/rate-white-sc1c4ab8de6.png') no-repeat
+    background:url('../images/rate-white-sc1c4ab8de6.png') no-repeat
 }
 .smw .smw__rate {
     background-position:0 -11px;
