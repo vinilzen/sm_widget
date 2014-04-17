@@ -116,8 +116,7 @@
     }
   }
   .smw__logo {
-    display: block;
-    margin: 5px auto 0;
+    display: none;
   }
   .smw__body {
     position: relative;
@@ -133,11 +132,7 @@
     position: relative;
   }
   .smw__tab__nav {
-    margin: 0 0 0 1px;
-    padding: 0;
-    border: 0;
-    overflow: hidden;
-    *zoom: 1;
+    display: none;
     li {
       list-style-image: none;
       list-style-type: none;
@@ -477,23 +472,27 @@
     &.smw__prices__item__cost {
       width: 74px !important;
       padding-left: 5px;
-      float: right;
+      float: left;
     }
-    &.smw__prices__list__b {
+    &:last-child {
       width: 66px !important;
-      float: right;
     }
   }
   .smw__prices__list__table-head {
     height: 26px;
     line-height: 26px;
     strong {
-      padding-left: 10px;
+      padding-left: 0;
     }
     .smw__prices__list__cell {
+      display: none;
       float: left;
       font-size: 12px;
       text-align: left;
+      &:first-child {
+        display: block;
+        width: 100% !important;
+      }
     }
   }
   .smw__prices__list__table {
@@ -520,7 +519,7 @@
         width: 74px !important;
         padding-left: 5px;
         font-size: 11px;
-        float: right;
+        float: left;
         text-align: right !important;
         
       }
@@ -541,6 +540,12 @@
     height: 25px;
     line-height: 25px;
     cursor: pointer;
+    .smw__prices__list__cell:first-child {
+      width: 113px !important;
+    }
+    .smw__prices__list__cell:nth-child(2), .smw__prices__list__cell:nth-child(3) {
+      display: none;
+    }
   }
   .smw__prices__item__virtual {
     display: none;
@@ -550,8 +555,8 @@
     opacity: 1;
   }
   .smw__prices__buy {
-    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
-    opacity: 0;
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0.9);
+    opacity: 0.9;
     -webkit-transition: opacity 0.3s;
     -moz-transition: opacity 0.3s;
     -o-transition: opacity 0.3s;
@@ -701,20 +706,7 @@
     display: block;
   }
   .ya-info {
-    position: absolute;
-    top: -3px;
-    right: 0;
-    text-align: right;
-    padding: 0 12px;
-    font-size: 10px;
-    font-weight: 300 !important;
-    line-height: 30px;
-    a {
-      text-decoration: none;
-      &:hover {
-        text-decoration: underline;
-      }
-    }
+    display: none;
   }
 }
 

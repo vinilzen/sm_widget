@@ -139,35 +139,30 @@
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003118}}
 .smw .smw__logo {
-  display: block;
-  margin: 5px auto 0;
+  display: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003122}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003121}}
 .smw .smw__body {
   position: relative;
   padding: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003125}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003124}}
 .smw .smw__body a {
   text-decoration: underline;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003126}}
 .smw .smw__body a:hover {
   text-decoration: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003132}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003131}}
 .smw .smw__tab {
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003135}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003134}}
 .smw .smw__tab__nav {
-  margin: 0 0 0 1px;
-  padding: 0;
-  border: 0;
-  overflow: hidden;
-  *zoom: 1;
+  display: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003141}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003136}}
 .smw .smw__tab__nav li {
   list-style-image: none;
   list-style-type: none;
@@ -178,15 +173,15 @@
   padding-left: 0.5px;
   padding-right: 0.5px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003150}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003145}}
 .smw .smw__tab__nav li:first-child, .smw .smw__tab__nav li.first {
   padding-left: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003153}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003148}}
 .smw .smw__tab__nav li:last-child, .smw .smw__tab__nav li.last {
   padding-right: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003157}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003152}}
 .smw .smw__tab__nav a {
   height: 25px;
   line-height: 25px;
@@ -195,28 +190,28 @@
   display: block;
   padding: 0 10px 0 37px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003166}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003161}}
 .smw .smw__tab__nav__counter {
   font-size: 11px;
   padding: 0 0 0 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003170}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003165}}
 .smw .smw__tab__contents {
   padding: 0;
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003174}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003169}}
 .smw .smw__tab__contents__item {
   display: none;
   position: relative;
   height: 157px;
   overflow: hidden;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003179}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003174}}
 .smw .smw__tab__contents__item:first-child {
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003183}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003178}}
 .smw .smw__info {
   font-size: 13px;
   line-height: 18px;
@@ -227,41 +222,41 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003192}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003187}}
 .smw .smw__info:nth-child(3n+1) {
   clear: left;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003196}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003191}}
 .smw .smw__info__name {
   display: block;
   font-weight: 700;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003200}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003195}}
 .smw .smw__info__value {
   padding: 0 !important;
   margin: 0 !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003204}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003199}}
 .smw .smw__info__all {
   font-size: 14px !important;
   padding: 0 0 15px 10px;
   display: inline-block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003209}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003204}}
 .smw .smw__impression__head, .smw .redirect__head {
   border-top: 1px solid #e9e9e9;
   border-bottom: 1px solid #e9e9e9;
   padding: 7px 10px;
   font-size: 12px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003215}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003210}}
 .smw .smw__impression__head__slogan {
   width: 280px;
   line-height: 14px;
   position: relative;
   top: 2px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003221}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003216}}
 .smw .smw__impression__head__rate, .smw .smw__impression__head__rate_empty {
   line-height: 28px;
   text-align: center;
@@ -274,7 +269,7 @@
   font-size: 13px;
   font-style: normal !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003233}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003228}}
 .smw .smw__impression__filter {
   margin: 0;
   padding: 0;
@@ -284,7 +279,7 @@
   padding: 9px 0 0;
   font-size: 12px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003241}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003236}}
 .smw .smw__impression__filter li {
   list-style-image: none;
   list-style-type: none;
@@ -295,24 +290,24 @@
   padding-left: 4.5px;
   padding-right: 4.5px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003250}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003245}}
 .smw .smw__impression__filter li:first-child, .smw .smw__impression__filter li.first {
   padding-left: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003253}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003248}}
 .smw .smw__impression__filter li:last-child, .smw .smw__impression__filter li.last {
   padding-right: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003257}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003252}}
 .smw .smw__impression__filter a {
   text-decoration: none;
   font-size: 12px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003260}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003255}}
 .smw .smw__impression__filter a.active {
   font-weight: 700;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003265}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003260}}
 .smw .smw__impression__head__mark {
   font-size: 12px;
   color: #000;
@@ -320,11 +315,11 @@
   position: relative;
   top: 1px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003272}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003267}}
 .smw .smw__impression__list-sort {
   height: 110px !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003275}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003270}}
 .smw .smw__impression__list__item {
   padding: 6px 15px 6px 10px;
   font-size: 12px;
@@ -332,40 +327,40 @@
   border-bottom: 1px solid #ededed;
   width: 568px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003282}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003277}}
 .smw .smw__impression__list__item__ava {
   display: block;
   margin: 0 10px 0 0;
   width: 40px;
   height: 40px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003288}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003283}}
 .smw .smw__impression__list__item__name {
   text-decoration: none !important;
   margin: 0 0 2px 0;
   display: block;
   white-space: nowrap;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003294}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003289}}
 .smw .smw__impression__list__item__has, .smw .smw__impression__list__item__like {
   display: inline-block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003297}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003292}}
 .smw .smw__impression__list__item__text {
   padding: 0 !important;
   margin: 0 0 2px 0 !important;
   line-height: 1.4;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003302}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003297}}
 .smw .smw__impression__list__item__date {
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003305}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003300}}
 .smw .smw__impression__list__item:hover .smw__impression__list__item__rate {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003309}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003304}}
 .smw .smw__impression__list__item__rate {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
   opacity: 0;
@@ -381,7 +376,7 @@
   line-height: 14px;
   font-size: 12px !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003318}}
 .smw .smw__impression__list__item__rate:before {
   content: '';
   position: absolute;
@@ -389,12 +384,12 @@
   top: 0;
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003331}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003326}}
 .smw .smw__impression__list__item:hover .smw__impression__list__item__nav {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003330}}
 .smw .smw__impression__list__item__nav {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
   opacity: 0;
@@ -411,7 +406,7 @@
   right: 14px;
   bottom: 5px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003350}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003345}}
 .smw .smw__impression__list__item__nav li {
   list-style-image: none;
   list-style-type: none;
@@ -422,15 +417,15 @@
   padding-left: 5px;
   padding-right: 5px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003354}}
 .smw .smw__impression__list__item__nav li:first-child, .smw .smw__impression__list__item__nav li.first {
   padding-left: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003362}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003357}}
 .smw .smw__impression__list__item__nav li:last-child, .smw .smw__impression__list__item__nav li.last {
   padding-right: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003362}}
 .smw .smw__impression__list__item__tu, .smw .smw__impression__list__item__td, .smw .smw__impression__list__item__comments {
   display: block;
   color: #171717 !important;
@@ -440,7 +435,7 @@
   position: relative;
   cursor: default;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003376}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003371}}
 .smw .smw__impression__list__item__tu:before, .smw .smw__impression__list__item__td:before {
   content: '';
   position: absolute;
@@ -448,11 +443,11 @@
   top: 0;
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003378}}
 .smw .smw__impression__list__item__comments {
   cursor: default;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003384}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003379}}
 .smw .smw__impression__list__item__comments:before {
   content: '';
   position: absolute;
@@ -460,7 +455,7 @@
   top: 0;
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003393}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003388}}
 .smw .btn_dgreen, .smw .btn_dgreen_big, .smw .redirect__to, .smw .redirect__back {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -491,11 +486,11 @@
   text-shadow: 0 1px 0 #071c02;
   text-decoration: none !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003423}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003418}}
 .smw .btn_dgreen i, .smw .btn_dgreen_big i, .smw .redirect__to i, .smw .redirect__back i {
   margin: 0 7px 0 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003426}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003421}}
 .smw .btn_dgreen:hover, .smw .btn_dgreen_big:hover, .smw .redirect__to:hover, .smw .redirect__back:hover {
   background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #176605), color-stop(100%, #2a7a12));
   background-image: -webkit-linear-gradient(top, #176605, #2a7a12);
@@ -505,23 +500,23 @@
   -pie-background: linear-gradient(top, #176605, #2a7a12);
   background: -ms-linear-gradient(top, #176605, #2a7a12);
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003435}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003430}}
 .smw .btn_dgreen:active, .smw .btn_dgreen_big:active, .smw .redirect__to:active, .smw .redirect__back:active {
   background: #176605;
   -webkit-box-shadow: 0px 0px 0px #fff;
   -moz-box-shadow: 0px 0px 0px #fff;
   box-shadow: 0px 0px 0px white;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003441}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003436}}
 .smw .smw__prices__list {
   overflow: hidden;
   height: 163px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003445}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003440}}
 .smw .smw__prices__list__l {
   width: 406px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003448}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003443}}
 .smw .smw__prices__list__head {
   padding: 0 10px;
   font-size: 13px;
@@ -534,21 +529,21 @@
   border-top: 1px solid #e9e9e9;
   border-bottom: 1px solid #d1dfec;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003459}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003454}}
 .smw .smw__prices__list__head .smw__prices__list__l {
   width: auto !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003463}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003458}}
 .smw .smw__rate {
   width: 77px;
   top: 8px;
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003467}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003462}}
 .smw .smw__rate span {
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003471}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003466}}
 .smw .smw__prices__list__cell {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -556,37 +551,42 @@
   padding: 0 0 0 8px;
   width: 113px !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003477}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003472}}
 .smw .smw__prices__list__cell.smw__prices__item__cost {
   width: 74px !important;
   padding-left: 5px;
-  float: right;
+  float: left;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003482}}
-.smw .smw__prices__list__cell.smw__prices__list__b {
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003477}}
+.smw .smw__prices__list__cell:last-child {
   width: 66px !important;
-  float: right;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003487}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003481}}
 .smw .smw__prices__list__table-head {
   height: 26px;
   line-height: 26px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003490}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003484}}
 .smw .smw__prices__list__table-head strong {
-  padding-left: 10px;
+  padding-left: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003493}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003487}}
 .smw .smw__prices__list__table-head .smw__prices__list__cell {
+  display: none;
   float: left;
   font-size: 12px;
   text-align: left;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003499}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003492}}
+.smw .smw__prices__list__table-head .smw__prices__list__cell:first-child {
+  display: block;
+  width: 100% !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003498}}
 .smw .smw__prices__list__table {
   font-size: 13px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003501}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003500}}
 .smw .smw__prices__list__table th {
   border-top: 1px solid #fff;
   border-bottom: 1px solid #ededed;
@@ -594,7 +594,7 @@
   font-weight: 700;
   vertical-align: bottom;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003508}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003507}}
 .smw .smw__prices__list__table .smw__prices__list__cell {
   background: #fff;
   padding: 0 0 0 8px;
@@ -607,26 +607,26 @@
   line-height: 26px;
   overflow: hidden;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003519}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003518}}
 .smw .smw__prices__list__table .smw__prices__list__cell.smw__prices__item__cost {
   width: 74px !important;
   padding-left: 5px;
   font-size: 11px;
-  float: right;
+  float: left;
   text-align: right !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003527}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003526}}
 .smw .smw__prices__list__table .smw__prices__list__cell.smw__prices__list__b {
   width: 66px !important;
   float: right;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003532}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003531}}
 .smw .smw__prices__list__table small {
   font-size: 10px;
   font-weight: 300 !important;
   padding-left: 0px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003538}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003537}}
 .smw .smw__prices__item {
   border-bottom: 1px solid #ededed;
   overflow: hidden;
@@ -634,19 +634,27 @@
   line-height: 25px;
   cursor: pointer;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003545}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003543}}
+.smw .smw__prices__item .smw__prices__list__cell:first-child {
+  width: 113px !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003546}}
+.smw .smw__prices__item .smw__prices__list__cell:nth-child(2), .smw .smw__prices__item .smw__prices__list__cell:nth-child(3) {
+  display: none;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003550}}
 .smw .smw__prices__item__virtual {
   display: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003548}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003553}}
 .smw .smw__prices__item:hover .smw__prices__buy, .smw .smw__prices__list__table.static .smw__prices__buy {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003552}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003557}}
 .smw .smw__prices__buy {
-  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
-  opacity: 0;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0.9);
+  opacity: 0.9;
   -webkit-transition: opacity 0.3s;
   -moz-transition: opacity 0.3s;
   -o-transition: opacity 0.3s;
@@ -665,27 +673,27 @@
   text-align: left;
   cursor: pointer;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003572}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003577}}
 .smw .smw__prices__buy:before {
   content: '';
   position: absolute;
   display: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003578}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003583}}
 .smw .smw__prices__item__cost {
   font-size: 14px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003581}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003586}}
 .smw th.smw__prices__item__cost {
   font-size: 15px !important;
   color: black;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003585}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003590}}
 .smw .smw__prices__list__all {
   position: relative;
   text-align: left !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003589}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003594}}
 .smw .where-to-buy__trigger {
   position: relative;
   text-decoration: none !important;
@@ -693,11 +701,11 @@
   border-bottom: 1px dashed #003e7d;
   font-weight: 300;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003595}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003600}}
 .smw .where-to-buy__trigger:hover {
   border-bottom: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003598}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003603}}
 .smw .where-to-buy__trigger:after {
   content: '';
   position: absolute;
@@ -708,7 +716,7 @@
   border-right: 3px solid transparent;
   border-top: 3px solid #515151;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003609}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003614}}
 .smw .where-to-buy {
   display: inline-block;
   margin: 0 -11px 0 3px;
@@ -717,15 +725,15 @@
   text-shadow: 0 1px 0 #fff;
   cursor: pointer;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003616}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003621}}
 .smw .where-to-buy a {
   border-bottom: 1px dashed #003e7d;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003618}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003623}}
 .smw .where-to-buy a:hover {
   border: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003622}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003627}}
 .smw .where-to-buy:after {
   content: '';
   display: block;
@@ -735,7 +743,7 @@
   width: 10px;
   height: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003631}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003636}}
 .smw .where-to-buy .search {
   position: absolute;
   left: 0;
@@ -748,12 +756,12 @@
   box-shadow: 0 2px 1px #979797;
   background-color: #fff;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003642}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003647}}
 .smw .where-to-buy .search a {
   border-bottom: 0;
   text-decoration: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003648}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003653}}
 .smw .where-to-buy input[type="text"] {
   width: 200px;
   -webkit-box-sizing: border-box;
@@ -764,21 +772,21 @@
   left: 4px;
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003658}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003663}}
 .smw .where-to-buy input[type="submit"] {
   position: absolute;
   right: 8px;
   top: 5px;
   border: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003666}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003671}}
 .smw .where-to-buy__towns {
   margin-top: -1px;
   max-height: 106px;
   overflow: auto;
   display: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003671}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003676}}
 .smw .where-to-buy__towns li {
   overflow: hidden;
   display: block;
@@ -786,7 +794,7 @@
   float: none;
   padding: 0 !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003678}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003683}}
 .smw .where-to-buy__towns a {
   background: #fff;
   height: 23px;
@@ -796,70 +804,55 @@
   border-bottom: 1px solid #f1f1f1;
   padding: 0 0 0 9px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003686}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003691}}
 .smw .where-to-buy__towns a:hover {
   background: #f0f2fe;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003691}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003696}}
 .smw .smw__stuff.opened .smw__footer {
   display: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003694}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003699}}
 .smw .smw__stuff__in {
   display: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003696}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003701}}
 .smw .smw__stuff__in.expand {
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003700}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003705}}
 .smw .ie .smw__stuff__in {
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003703}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003708}}
 .smw .ya-info {
-  position: absolute;
-  top: -3px;
-  right: 0;
-  text-align: right;
-  padding: 0 12px;
-  font-size: 10px;
-  font-weight: 300 !important;
-  line-height: 30px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003712}}
-.smw .ya-info a {
-  text-decoration: none;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003714}}
-.smw .ya-info a:hover {
-  text-decoration: underline;
+  display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003721}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003713}}
 .smw__info-wrap .smw .ya-info {
   position: relative;
   top: -11px;
   margin-bottom: -22px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003727}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003719}}
 .smw__prices__list__head .smw .ya-info {
   position: relative;
   top: -4px;
   padding-right: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003734}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003726}}
 .smw .smw__info-wrap-scroll {
   height: 155px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003737}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003729}}
 .smw .smw__prices__list-scroll {
   height: 130px;
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003741}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003733}}
 .smw .smwRedirect {
   display: none;
   overflow: hidden;
@@ -871,12 +864,12 @@
   z-index: 10;
   background: white;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003752}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003744}}
 .smw .redirect__head {
   padding-top: 0;
   padding-bottom: 5px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003756}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003748}}
 .smw .redirect__body {
   background: #fff;
   color: #4e4e4e;
@@ -884,23 +877,23 @@
   text-align: center;
   padding: 12px 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003762}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003754}}
 .smw .redirect__body p {
   padding-bottom: 9px;
   text-align: center !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003767}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003759}}
 .smw .btn_dgreen_big, .smw .redirect__to {
   height: 26px;
   line-height: 26px;
   font-size: 14px !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003772}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003764}}
 .smw .logo {
   display: block;
   margin: -5px auto 15px auto;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003776}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003768}}
 .smw .smw__footer {
   cursor: pointer;
   background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #f6f5ff), color-stop(100%, #dcfaff));
@@ -918,25 +911,25 @@
   font-size: 15px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003794}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003786}}
 .smw .smw__stuff__num {
   color: #0a3069;
   font-size: 11px;
   padding: 0 8px 0 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003800}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003792}}
 .jspContainer {
   overflow: hidden;
   position: relative;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003805}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003797}}
 .jspPane {
   position: absolute;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003810}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003802}}
 .jspVerticalBar {
   position: absolute;
   top: 0;
@@ -945,7 +938,7 @@
   height: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003818}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003810}}
 .jspHorizontalBar {
   position: absolute;
   bottom: 0;
@@ -955,29 +948,29 @@
   background: red;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003827}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003819}}
 .jspVerticalBar *, .jspHorizontalBar * {
   margin: 0;
   padding: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003832}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003824}}
 .jspCap {
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003836}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003828}}
 .jspHorizontalBar .jspCap {
   float: left;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003840}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003832}}
 .jspTrack {
   background: #dcdcdc;
   position: relative;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003845}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003837}}
 .jspDrag {
   background: #aeaeae;
   position: relative;
@@ -986,55 +979,55 @@
   cursor: pointer;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003854}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003846}}
 .jspHorizontalBar .jspTrack, .jspHorizontalBar .jspDrag {
   float: left;
   height: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003860}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003852}}
 .jspArrow {
   background: #50506d;
   text-indent: -20000px;
   display: block;
   cursor: pointer;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003865}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003857}}
 .jspArrow.jspDisabled {
   cursor: default;
   background: #80808d;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003871}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003863}}
 .jspVerticalBar .jspArrow {
   height: 16px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003875}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003867}}
 .jspHorizontalBar .jspArrow {
   width: 16px;
   float: left;
   height: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003881}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003873}}
 .jspVerticalBar .jspArrow:focus {
   outline: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003885}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003877}}
 .jspCorner {
   background: #eeeef4;
   float: left;
   height: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003891}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003883}}
 * html .jspCorner {
   margin: 0 -3px 0 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003895}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003887}}
 .debug {
   background: indianred;
   border: 1px solid #000;
@@ -1047,74 +1040,74 @@
   top: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003909}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003901}}
 .smw.lt-ie9 .smw__header {
   behavior: none;
   background: whitesmoke;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003912}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003904}}
 .smw.lt-ie9 .smw__header .smw__title-centr {
   display: inline-block;
   width: auto;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003918}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003910}}
 .smw.lt-ie9 .smw__tab__nav a.active {
   behavior: none;
   background: #385f99;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003922}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003914}}
 .smw.lt-ie9 .smw__impression__list__item:hover .smw__impression__list__item__rate {
   visibility: visible;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003925}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003917}}
 .smw.lt-ie9 .smw__header {
   behavior: none;
   background: whitesmoke;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003929}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003921}}
 .smw.lt-ie9 .smw__impression__list__item:hover .smw__impression__list__item__nav {
   visibility: visible;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003932}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003924}}
 .smw.lt-ie9 .smw__impression__list__item__nav {
   visibility: hidden;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003935}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003927}}
 .smw.lt-ie9 .btn_dgreen, .smw.lt-ie9 .btn_dgreen_big, .smw.lt-ie9 .redirect__to, .smw.lt-ie9 .redirect__back, .smw.lt-ie9 .btn_dgreen_big, .smw.lt-ie9 .redirect__to, .smw.lt-ie9 .redirect__back {
   behavior: none;
   background: #2a7a12;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003939}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003931}}
 .smw.lt-ie9 .smw__prices__item:hover .smw__prices__buy {
   visibility: visible;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003942}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003934}}
 .smw.lt-ie9 .smw__prices__buy {
   visibility: hidden;
   behavior: none;
   background: #47819e;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003947}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003939}}
 .smw.lt-ie9 .smw__footer {
   behavior: none;
   background: #dcfaff;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003952}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003944}}
 .smw .smw__stuff:first-child .smw__stuff__in {
   display: block;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003957}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003949}}
 .smw__clickable {
   cursor: pointer;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003962}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003954}}
 .smw .smw__tab__contents__item.feedback {
   height: auto;
   min-height: 200px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003966}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003958}}
 .smw .smw__feedback__nav {
   background: #3f3f3f;
   /*height: 54px;*/
@@ -1123,7 +1116,7 @@
   padding: 5px 10px 0 14px;
   overflow: hidden;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003974}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003966}}
 .smw .smw__feedback__nav__bucket {
   background-image: url("../images/sprite-sfbc766918a.png");
   background-position: 0 -98px;
@@ -1142,7 +1135,7 @@
   float: left;
   text-decoration: none !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003992}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\00003984}}
 .smw .smw__feedback__nav__all {
   display: block;
   height: 17px;
@@ -1160,7 +1153,7 @@
   padding: 0 4px 0 20px;
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031008}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031000}}
 .smw .smw__feedback__nav__all i {
   background-image: url("../images/sprite-sfbc766918a.png");
   background-position: 0 -264px;
@@ -1173,7 +1166,7 @@
   top: 3px;
   left: 4px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031021}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031013}}
 .smw .smw__feedback__marks {
   float: left;
   overflow: hidden;
@@ -1182,22 +1175,22 @@
   -moz-box-shadow: 1px 0 0 rgba(255, 255, 255, 0.25), inset -1px 0px rgba(255, 255, 255, 0.7);
   box-shadow: 1px 0 0 rgba(255, 255, 255, 0.25), inset -1px 0px rgba(255, 255, 255, 0.7);
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031028}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031020}}
 .smw .smw__feedback__marks li {
   float: left;
   cursor: pointer;
   width: 54px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031032}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031024}}
 .smw .smw__feedback__marks li:hover .smw__feedback__marks__circle, .smw .smw__feedback__marks li.active .smw__feedback__marks__circle {
   background-color: #01cbff;
   border-color: #01cbff;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031028}}
 .smw .smw__feedback__marks li:hover .smw__feedback__marks__label, .smw .smw__feedback__marks li.active .smw__feedback__marks__label {
   text-decoration: underline;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031041}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031033}}
 .smw .smw__feedback__marks__label {
   color: #fefefe;
   font-size: 9px;
@@ -1206,7 +1199,7 @@
   margin: 3px 0 0;
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031049}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031041}}
 .smw .smw__feedback__marks__circle {
   width: 27px;
   height: 27px;
@@ -1227,32 +1220,32 @@
   font-size: 10px !important;
   font-weight: bold !important;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031068}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031060}}
 .smw .smw__feedback__marks__circle.neutral {
   border-color: #848131;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031071}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031063}}
 .smw .smw__feedback__marks__circle.negative {
   border-color: #763a3a;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031075}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031067}}
 .smw .smw__feedback__list-wrap {
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031078}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031070}}
 .smw .smw__feedback__list {
   width: 530px;
   overflow: hidden;
   margin: 0 auto;
   padding: 10px 0 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031084}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031076}}
 .smw .smw__feedback__list__in {
   overflow: hidden;
   width: 10000px;
   position: absolute;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031089}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031081}}
 .smw .smw__feedback__list__next, .smw .smw__feedback__list__prev {
   position: absolute;
   z-index: 100;
@@ -1260,7 +1253,7 @@
   top: 50%;
   margin-top: -12px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031096}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031088}}
 .smw .smw__feedback__list__next {
   right: 10px;
   background-image: url("../images/sprite-sfbc766918a.png");
@@ -1270,13 +1263,13 @@
   width: 15px;
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031104}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031096}}
 .smw .smw__feedback__list__next:hover {
   background-image: url("../images/sprite-sfbc766918a.png");
   background-position: 0 -215px;
   background-repeat: no-repeat;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031110}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031102}}
 .smw .smw__feedback__list__prev {
   left: 10px;
   background-image: url("../images/sprite-sfbc766918a.png");
@@ -1286,13 +1279,13 @@
   width: 15px;
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031118}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031110}}
 .smw .smw__feedback__list__prev:hover {
   background-image: url("../images/sprite-sfbc766918a.png");
   background-position: 0 0;
   background-repeat: no-repeat;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031124}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031116}}
 .smw .smw__feedback__list__item {
   margin: 0 7px 15px 7px;
   width: 232px;
@@ -1312,37 +1305,37 @@
   position: relative;
   float: left;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031142}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031134}}
 .smw .smw__feedback__list__item.positive {
   -webkit-box-shadow: 0px 2px 1px 0px #16ab42;
   -moz-box-shadow: 0px 2px 1px 0px #16ab42;
   box-shadow: 0px 2px 1px 0px #16ab42;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031146}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031138}}
 .smw .smw__feedback__list__item.positive:after {
   border-top: 14px solid #16AB42;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031150}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031142}}
 .smw .smw__feedback__list__item.negative {
   -webkit-box-shadow: 0px 2px 1px 0px #e5111b;
   -moz-box-shadow: 0px 2px 1px 0px #e5111b;
   box-shadow: 0px 2px 1px 0px #e5111b;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031154}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031146}}
 .smw .smw__feedback__list__item.negative:after {
   border-top: 14px solid #e5111b;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031158}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031150}}
 .smw .smw__feedback__list__item.neutral {
   -webkit-box-shadow: 0px 2px 1px 0px #848131;
   -moz-box-shadow: 0px 2px 1px 0px #848131;
   box-shadow: 0px 2px 1px 0px #848131;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031162}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031154}}
 .smw .smw__feedback__list__item.neutral:after {
   border-top: 14px solid #848131;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031166}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031158}}
 .smw .smw__feedback__list__item:after, .smw .smw__feedback__list__item:before {
   content: '';
   position: absolute;
@@ -1353,7 +1346,7 @@
   border-top: 11px solid #e9e9e9;
   z-index: 10;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031176}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031168}}
 .smw .smw__feedback__list__item:after {
   left: 12px;
   bottom: -15px;
@@ -1361,16 +1354,16 @@
   border-right: 14px solid transparent;
   z-index: 9;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031183}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031175}}
 .smw .smw__feedback__list__item p {
   font-size: 11px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031186}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031178}}
 .smw .smw__feedback__list__item img {
   float: left;
   margin: 0 8px 0 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031191}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031183}}
 .smw .smw__feedback__list__item__head {
   overflow: hidden;
   height: 25px;
@@ -1378,7 +1371,7 @@
   font-size: 12px;
   padding-bottom: 8px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031198}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031190}}
 .smw .smw__feedback__name {
   line-height: 25px;
   float: left;
@@ -1386,56 +1379,56 @@
   text-decoration: none !important;
   padding: 0 6px 0 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031205}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031197}}
 .smw .smw__feedback__ya {
   float: left;
   font-size: 10px;
   line-height: 25px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031209}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031201}}
 .smw .smw__feedback__ya a {
   color: #000;
   font-size: 10px;
   text-decoration: underline;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031213}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031205}}
 .smw .smw__feedback__ya a:hover {
   text-decoration: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031218}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031210}}
 .smw .smw__feedback__text {
   line-height: 1.3;
   font-size: 11px;
   height: 57px;
   overflow: hidden;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031223}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031215}}
 .smw .smw__feedback__text.full_text {
   display: none;
   height: auto;
   min-height: 57px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031228}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031220}}
 .smw .smw__feedback__text a {
   color: #01ccff !important;
   text-decoration: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031233}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031225}}
 .smw .smw__feedback .empty {
   text-align: center;
   padding: 15px 0;
   font-size: 13px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031238}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031230}}
 .smw .smw__prices__buy {
   padding: 0 5px 0 7px;
   margin-top: -2px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031242}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031234}}
 .smw .smw__tab__nav a {
   padding: 0 10px 0 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031245}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031237}}
 .smw .smw__body .smw__powerd {
   font-size: 10px;
   text-decoration: none;
@@ -1443,23 +1436,23 @@
   width: 100%;
   text-align: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031251}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031243}}
 .smw .smw__body .smw__powerd a {
   text-decoration: none;
   color: #c5c5c5;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031254}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031246}}
 .smw .smw__body .smw__powerd a:hover {
   text-decoration: underline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031262}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031254}}
 .lt-ie9 .smw .smw__footer {
   behavior: none;
   background: #dcfaff;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031267}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/www\/OS\/test\/sm_widget\/css\/main\.scss}line{font-family:\000031259}}
 .lt-ie9 .smw .smw__header {
   behavior: none;
   background: whitesmoke;
