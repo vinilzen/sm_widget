@@ -2,13 +2,13 @@ $(function() {
 
 	var getRegionsUrl = 'js/regions.json';
 
-	$.get('js/region193.json', function(data){
-		console.log(data);
-	});
+	// $.get('js/region193.json', function(data){
+	// 	console.log(data);
+	// });
 
-	$.get('js/region213.json', function(data){
-		console.log(data);
-	});
+	// $.get('js/region213.json', function(data){
+	// 	console.log(data);
+	// });
 
 	var text_input = $('.search input[type=text]'),
 		ul = $('.where-to-buy__towns');
